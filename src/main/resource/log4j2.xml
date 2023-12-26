@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration >
+    <Appenders>
+        <Console name="LogToConsole" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{dd-MM-yyyy HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+        <File name="LogToFile" fileName="/Users/Malhotra/eclipse-workspace/DataDrivenFramework/Logs/logFile.txt" append = "true">
+            <PatternLayout pattern="%d{dd-MM-yyyy HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Logger name="Kuldeep" level="all" additivity="false">
+            <AppenderRef ref="LogToFile"/>
+            
+        </Logger>
+        <Logger name="org.springframework.boot" level="error" additivity="false">
+            <AppenderRef ref="LogToConsole"/>
+        </Logger>
+        <Root level="all">
+            <AppenderRef ref="LogToFile"/>
+           // <AppenderRef ref="LogToConsole"/>
+        </Root>
+    </Loggers>
+</Configuration>

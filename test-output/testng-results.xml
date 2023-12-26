@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T01:01:23 IST" name="SauceDemo" finished-at="2023-12-19T01:01:37 IST" duration-ms="13943">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T01:01:23 IST" name="TC01_LoginFlow" finished-at="2023-12-19T01:01:37 IST" duration-ms="13943">
+      <class name="com.Project.TestCases.TC01_LoginFlow">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.Project.TestCases.TC01_LoginFlow@38c6f217]" started-at="2023-12-19T01:01:23 IST" name="browserSetup" finished-at="2023-12-19T01:01:29 IST" duration-ms="5725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="loginFlowTest()[pri:0, instance:com.Project.TestCases.TC01_LoginFlow@38c6f217]" started-at="2023-12-19T01:01:29 IST" name="loginFlowTest" finished-at="2023-12-19T01:01:30 IST" duration-ms="1449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFlowTest -->
+        <test-method signature="loginFlow()[pri:1, instance:com.Project.TestCases.TC01_LoginFlow@38c6f217]" started-at="2023-12-19T01:01:30 IST" name="loginFlow" finished-at="2023-12-19T01:01:31 IST" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFlow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Project.TestCases.TC01_LoginFlow@38c6f217]" started-at="2023-12-19T01:01:31 IST" name="tearDown" finished-at="2023-12-19T01:01:31 IST" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Project.TestCases.TC01_LoginFlow -->
+      <class name="com.Project.TestCases.TC02_PlaceAnOrder">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.Project.TestCases.TC02_PlaceAnOrder@16d04d3d]" started-at="2023-12-19T01:01:31 IST" name="browserSetup" finished-at="2023-12-19T01:01:33 IST" duration-ms="1809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="loginFlowTest()[pri:0, instance:com.Project.TestCases.TC02_PlaceAnOrder@16d04d3d]" started-at="2023-12-19T01:01:33 IST" name="loginFlowTest" finished-at="2023-12-19T01:01:35 IST" duration-ms="1471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFlowTest -->
+        <test-method signature="loginFlow()[pri:1, instance:com.Project.TestCases.TC02_PlaceAnOrder@16d04d3d]" started-at="2023-12-19T01:01:35 IST" name="loginFlow" finished-at="2023-12-19T01:01:35 IST" duration-ms="794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFlow -->
+        <test-method signature="productCheckout()[pri:2, instance:com.Project.TestCases.TC02_PlaceAnOrder@16d04d3d]" started-at="2023-12-19T01:01:35 IST" name="productCheckout" finished-at="2023-12-19T01:01:37 IST" duration-ms="1203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productCheckout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Project.TestCases.TC02_PlaceAnOrder@16d04d3d]" started-at="2023-12-19T01:01:37 IST" name="tearDown" finished-at="2023-12-19T01:01:37 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Project.TestCases.TC02_PlaceAnOrder -->
+    </test> <!-- TC01_LoginFlow -->
+  </suite> <!-- SauceDemo -->
+</testng-results>

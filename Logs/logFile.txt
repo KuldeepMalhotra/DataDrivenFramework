@@ -1,0 +1,161 @@
+18-12-2023 16:42:25.786 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 16:42:26.244 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 16:42:26.378 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 16:42:26.560 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 16:46:00.344 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 16:46:00.740 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 16:46:00.891 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 16:46:01.064 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 16:58:22.229 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 16:58:23.130 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 16:58:23.263 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 16:58:23.447 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 17:42:42.356 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 17:42:42.395 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 17:45:40.520 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 17:45:40.568 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 17:46:36.733 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 17:46:36.784 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 17:47:53.307 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 17:51:02.574 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 17:54:28.653 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 17:54:28.710 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 17:57:35.934 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 17:57:35.998 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 17:57:36.458 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 17:57:36.733 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 17:57:36.999 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:13:51.451 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 20:13:51.497 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 20:13:51.891 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 20:13:52.033 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 20:13:52.247 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:13:52.670 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+18-12-2023 20:13:55.897 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 20:13:55.923 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 20:13:56.234 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 20:13:56.380 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 20:13:56.555 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:13:56.630 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - https://www.saucedemo.com/inventory.html
+18-12-2023 20:13:56.732 [main] INFO  DataDrivenFramework Logging Feature - Product selected successfully.
+18-12-2023 20:19:01.145 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 20:19:01.204 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 20:19:01.781 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 20:19:01.947 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 20:19:02.195 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:19:02.759 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+18-12-2023 20:19:06.587 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 20:19:06.639 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 20:19:07.254 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 20:19:07.523 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 20:19:07.766 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:19:07.818 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - https://www.saucedemo.com/inventory.html
+18-12-2023 20:19:07.958 [main] INFO  DataDrivenFramework Logging Feature - Product selected successfully.
+18-12-2023 20:19:13.460 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+18-12-2023 20:21:30.562 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 20:21:30.607 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 20:21:31.162 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 20:21:31.366 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 20:21:31.558 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:21:32.056 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+18-12-2023 20:21:35.868 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 20:21:35.915 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 20:21:36.302 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 20:21:36.502 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 20:21:36.705 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:21:36.757 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - https://www.saucedemo.com/inventory.html
+18-12-2023 20:21:36.877 [main] INFO  DataDrivenFramework Logging Feature - Product selected successfully.
+18-12-2023 20:21:37.049 [main] INFO  DataDrivenFramework Logging Feature - Product added to cart successfully.
+18-12-2023 20:21:37.526 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+18-12-2023 20:27:56.398 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 20:27:56.450 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 20:27:56.831 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 20:27:56.994 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 20:27:57.187 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:27:57.605 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+18-12-2023 20:28:01.207 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 20:28:01.244 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 20:28:01.596 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 20:28:01.764 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 20:28:01.938 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:28:01.958 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - https://www.saucedemo.com/inventory.html
+18-12-2023 20:28:02.077 [main] INFO  DataDrivenFramework Logging Feature - Product selected successfully.
+18-12-2023 20:28:02.194 [main] INFO  DataDrivenFramework Logging Feature - Product added to cart successfully.
+18-12-2023 20:28:02.548 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+18-12-2023 20:29:33.785 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 20:29:33.816 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 20:29:34.276 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 20:29:34.431 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 20:29:34.630 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:29:35.075 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+18-12-2023 20:29:38.476 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 20:29:38.512 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 20:29:38.804 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 20:29:38.963 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 20:29:39.167 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:29:39.206 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - https://www.saucedemo.com/inventory.html
+18-12-2023 20:29:39.313 [main] INFO  DataDrivenFramework Logging Feature - Product selected successfully.
+18-12-2023 20:29:39.427 [main] INFO  DataDrivenFramework Logging Feature - Product added to cart successfully.
+18-12-2023 20:29:39.797 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+18-12-2023 20:33:25.818 [main] INFO  DataDrivenFramework Logging Feature - 
+Test Case executing - TC01_LoginFlow
+18-12-2023 20:33:27.245 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 20:33:27.294 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 20:33:27.660 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 20:33:27.792 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 20:33:27.973 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:33:28.409 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+18-12-2023 20:33:30.193 [main] INFO  DataDrivenFramework Logging Feature - 
+Test Case executing - TC02_PlaceAnOrder
+18-12-2023 20:33:31.824 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 20:33:31.857 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 20:33:32.238 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 20:33:32.363 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 20:33:32.562 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 20:33:32.609 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - https://www.saucedemo.com/inventory.html
+18-12-2023 20:33:32.724 [main] INFO  DataDrivenFramework Logging Feature - Product selected successfully.
+18-12-2023 20:33:32.896 [main] INFO  DataDrivenFramework Logging Feature - Product added to cart successfully.
+18-12-2023 20:33:33.277 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+18-12-2023 21:49:09.045 [main] INFO  DataDrivenFramework Logging Feature - 
+Test Case executing - TC01_LoginFlow
+18-12-2023 21:49:10.797 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 21:49:10.818 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 21:49:11.134 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 21:49:11.274 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 21:49:11.474 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 21:49:11.956 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+18-12-2023 21:49:13.725 [main] INFO  DataDrivenFramework Logging Feature - 
+Test Case executing - TC02_PlaceAnOrder
+18-12-2023 21:49:15.726 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+18-12-2023 21:49:15.749 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+18-12-2023 21:49:16.111 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+18-12-2023 21:49:16.270 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+18-12-2023 21:49:16.473 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+18-12-2023 21:49:16.521 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - https://www.saucedemo.com/inventory.html
+18-12-2023 21:49:16.756 [main] INFO  DataDrivenFramework Logging Feature - Products are sorted low-to-high successfully.
+18-12-2023 21:49:16.883 [main] INFO  DataDrivenFramework Logging Feature - Product selected successfully.
+18-12-2023 21:49:17.018 [main] INFO  DataDrivenFramework Logging Feature - Product added to cart successfully.
+18-12-2023 21:49:17.415 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+19-12-2023 01:01:29.359 [main] INFO  DataDrivenFramework Logging Feature - 
+Test Case executing - TC01_LoginFlow
+19-12-2023 01:01:30.743 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+19-12-2023 01:01:30.782 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+19-12-2023 01:01:31.098 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+19-12-2023 01:01:31.237 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+19-12-2023 01:01:31.430 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+19-12-2023 01:01:31.900 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
+19-12-2023 01:01:33.713 [main] INFO  DataDrivenFramework Logging Feature - 
+Test Case executing - TC02_PlaceAnOrder
+19-12-2023 01:01:35.148 [main] INFO  DataDrivenFramework Logging Feature - Redirecting to... - https://www.saucedemo.com/
+19-12-2023 01:01:35.168 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - Swag Labs
+19-12-2023 01:01:35.555 [main] INFO  DataDrivenFramework Logging Feature - Username Inserted - standard_user
+19-12-2023 01:01:35.758 [main] INFO  DataDrivenFramework Logging Feature - Password Inserted - secret_sauce
+19-12-2023 01:01:35.961 [main] INFO  DataDrivenFramework Logging Feature - User Logged in successfully.
+19-12-2023 01:01:35.977 [main] INFO  DataDrivenFramework Logging Feature - Page Title is - https://www.saucedemo.com/inventory.html
+19-12-2023 01:01:36.216 [main] INFO  DataDrivenFramework Logging Feature - Products are sorted low-to-high successfully.
+19-12-2023 01:01:36.334 [main] INFO  DataDrivenFramework Logging Feature - Product selected successfully.
+19-12-2023 01:01:36.543 [main] INFO  DataDrivenFramework Logging Feature - Product added to cart successfully.
+19-12-2023 01:01:36.954 [main] INFO  DataDrivenFramework Logging Feature - Product delivery details filled successfully.
+19-12-2023 01:01:37.053 [main] INFO  DataDrivenFramework Logging Feature - Product is confirmed for delivery.
+19-12-2023 01:01:37.178 [main] INFO  DataDrivenFramework Logging Feature - Thank you for placing an order. Visit again!
+19-12-2023 01:01:37.508 [main] INFO  DataDrivenFramework Logging Feature - Test Executed and browser closed successfully.
